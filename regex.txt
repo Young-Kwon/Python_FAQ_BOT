@@ -1,0 +1,20 @@
+.* (first humans|individuals){e<=2} .*(created|made){e<=1} .* (God){e<=1} .* (genesis){e<=2}
+.* (fruit){e<=1} .* (Adam and Eve){e<=2} .*(forbidden|not allowed){e<=2} .* (eat|consume){e<=1} .* (Eden){e<=1}
+.* (tempted|lured){e<=1} (Eve){e<=1} .* (eat|consume){e<=1} .* (forbidden|prohibited){e<=2} (fruit|apple){e<=2}
+.* (sons|children){e<=1} .*(offered|gave){e<=1} .* (unacceptable sacrifice|displeasing offering){e<=3} .* (God){e<=1}
+.* (Cain){e<=1} .* (murdered|killing){e<=1} (Abel){e<=1}
+.* (God('s?)){e<=1} (decide|reason){e<=2} .* (send|releasing){e<=1} .* (flood){e<=1} .* (Noah){e<=1}
+.* (long|duration){e<=1} .* (floodwaters){e<=2} (remain|stay){e<=1} .* (earth|planet){e<=1} .* (Noah('s?)){e<=1}
+.* (mountain|peak){e<=1} .* (Noah's){e<=1} (Ark){e<=1} .*(rest|settle){e<=1}
+.* (sign|symbol){e<=1} .* (covenant|pact){e<=2} (God){e<=1} .* (Noah){e<=1} .* (flood|deluge){e<=2}
+.* (construction|building){e<=2} .* (Babel){e<=2}.*(halted|stop){e<=1}
+.* (region|area){e<=1} .* (Abram){e<=1} (called|instructed){e<=2} .* (God){e<=1} .* (go|travel){e<=1}
+.* (new|fresh){e<=1} (names){e<=1} .* (given|bestowed){e<=1} .* (Abram and Sarai){e<=3} .* (God){e<=1}
+.* (son|child){e<=1}.*(born){e<=1} .* (Abraham and Sarah){e<=3} .* (old age){e<=2}
+.* (two cities){e<=2} .* (destroyed|ruined){e<=2} .* (wickedness){e<=2} .* (Abraham's){e<=2} (era|time){e<=1}
+.* (Isaac('s?)){e<=1} (wife|marry){e<=1}
+.* (sons){e<=1} .* (Isaac(and Rebekah)?){e<=2}
+.* (esau){e<=1} (trade|exchange){e<=2} .* (jacob){e<=1} .* (stew|soup){e<=1}
+.* (Jacob('s?)){e<=1} (flee|escape){e<=1} .* (Uncle Laban's){e<=2} (house|residence){e<=2}
+.* (Jacob's){e<=2} (two wives|women){e<=2}
+.* (Joseph){e<=1} (end up|come to be){e<=2} .* (Egypt){e<=1}
